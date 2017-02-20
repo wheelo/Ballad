@@ -1,3 +1,3 @@
-# Ballade
+# Ballad
 
-unopinionated middleware loader for [Waffle](https://github.com/wheelo/waffle)
+Unopinionated loader and executor for universal frameworks 😊 
